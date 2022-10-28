@@ -12,5 +12,6 @@ As seguintes dependências são necessárias para o projeto:
 - git
 
 ## Como executar o projeto:
-- Clone o repositório https://github.com/daniel98julio/RhitmoPark.git localmente;
+- Clone o repositório https://github.com/daniel98julio/RhitmoPark.git localmente.
+- Execute o projeto localmente.
 - Inicie informando o número de vagas no estacionamento e inserindo um novo veículo nele.
